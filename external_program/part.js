@@ -1,1 +1,1 @@
-var one = { name : "lclinh", email: "lelinh123@gmail.com", phone: "0355748854"};
+var one = { name : "ngthdan", email: "lelinh123@gmail.com", phone: "0355748854"};
