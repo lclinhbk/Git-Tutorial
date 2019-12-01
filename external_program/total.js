@@ -1,1 +1,1 @@
-var product = {one: "car", two: "bike", three: "train"};
+var product = {one: "moto", two: "bike", three: "train"};
